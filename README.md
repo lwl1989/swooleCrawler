@@ -40,7 +40,7 @@ cd public
 
 php index.php
 
-打开 http://localhost:9550可以看到网站
+打开 http://localhost:9550 即可看到宣传首页
 
 使用curl 请求即可
 提交数据示例：
