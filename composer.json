@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "eaglewu/swoole-ide-helper": "dev-master"
+    },
+    "require": {
+        "igorw/config-service-provider": "^1.2",
+        "phpgt/dom": "^1.0",
+        "fresh-li/agile-swoole":"dev-master",
+        "php-curl-class/php-curl-class": "^8.0"
+    }
+}
